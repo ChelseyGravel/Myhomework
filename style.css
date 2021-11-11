@@ -1,0 +1,28 @@
+body { 
+    background-color:black;
+}
+
+nav {
+    background-color: cornflowerblue;
+}
+
+.col {
+    background-color:cyan;
+    height: 200px; 
+    width: auto;
+    float: right;
+}
+
+.row {
+    background-color: #9400D3;
+    height: 200px;
+    width: 25%;
+    float: left;
+}
+
+.row2 {
+    background-color:cyan;
+    height: 200px;
+    width: auto;
+    float: left;
+}
